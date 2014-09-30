@@ -1,0 +1,4 @@
+kafka-2.9.2
+flume-1.5.0.1
+flume项目编译
+mvn -DskipTests clean compile package -Phadoop-2
